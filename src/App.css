@@ -114,6 +114,7 @@ img {
   padding: 1rem;
   border: #ccc 1px dotted;
   margin: 0.7rem 0;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
 /* List */
